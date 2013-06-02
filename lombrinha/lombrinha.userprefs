@@ -1,9 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\scripts\animaPlayerSprite.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\titleScreen.js">
     <Files>
-      <File FileName="Assets\Standard Assets\scripts\animaPlayerSprite.js" Line="35" Column="47" />
-      <File FileName="Assets\Standard Assets\scripts\teste.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\titleScreen.js" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\vendedorAnimate.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\balaoBehaviour.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\createPath.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
